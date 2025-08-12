@@ -1,0 +1,49 @@
+body{
+    background-image: url('dur.jpg');
+    tab-size: 0cqb;
+}
+
+
+table{
+    background-color: rgb(2, 23, 23);
+} buttton{
+    grid-column: calc();
+}button{ color: rgb(10, 7, 2);}
+button{
+    background-color: rgb(15, 196, 216);
+}
+input{
+    background-color: beige;
+}input{
+    grid-column-end: initial;
+}
+table{
+    border-radius: 0cqh;
+}button{
+    touch-action: pinch-zoom
+    ;
+
+}
+
+
+button:hover{
+    touch-action: pinch-zoom;
+} body{
+    color-interpolation-filters: sRGB;
+}button :active{
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+table{
+    width: 10cm ;
+    height: 10cm;
+}
+   button{
+    width: 2cm;
+    height: 2cm;
+   }button{
+    font-size: larger;
+   }input{
+    width: 10cm;
+    height: 2cm;
+    font-size: larger;
+   }
